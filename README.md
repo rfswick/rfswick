@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! My Name is Rachel Swick!
 
 <!--
 **rfswick/rfswick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
